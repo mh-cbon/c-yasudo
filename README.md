@@ -14,9 +14,8 @@ Set sudo password given a pre defined env variable.
 
 ```js
 // by default it will use process.env['yasudo']
-var yasudo = require('@mh-cbon/c-yasudo');
-var spawn = yasudo.spawn;
+var spawn = require('@mh-cbon/c-yasudo');
 // but you can configure it
-yasudo.setVariable('THE_VARIABLE')
+spawn.setVariable('THE_VARIABLE')
 // password will now be looked into process.env['THE_VARIABLE']
 ```
