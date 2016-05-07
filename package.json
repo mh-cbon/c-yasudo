@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/c-yasudo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cached yasudo",
   "main": "index.js",
   "scripts": {
