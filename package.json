@@ -19,6 +19,6 @@
   "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "@mh-cbon/yasudo": "^1.0.8"
+    "@mh-cbon/yasudo": "^1.0.10"
   }
 }
